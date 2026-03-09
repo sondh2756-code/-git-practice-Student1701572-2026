@@ -7,6 +7,7 @@
 - Class: (AA2HN_C2510L)
 
 ## Objectives
+Practice basic and advanced Git commands.
+- Understand branching strategy
+- Understand conflict resolution and merge
 
-Practice basic and advanced Git commands
-Understand branching strategy
